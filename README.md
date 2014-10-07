@@ -1,2 +1,2 @@
-belief-propagation-permanent
+belief propagation permanent
 ============================
